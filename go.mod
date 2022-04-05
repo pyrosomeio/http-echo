@@ -1,3 +1,3 @@
-module github.com/hashicorp/http-echo
+module github.com/pyrosomeio/http-echo
 
 go 1.17

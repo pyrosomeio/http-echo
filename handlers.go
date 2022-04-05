@@ -12,7 +12,7 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/hashicorp/http-echo/version"
+	"github.com/pyrosomeio/http-echo/version"
 )
 
 const (

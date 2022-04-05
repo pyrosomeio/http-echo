@@ -16,7 +16,7 @@ import (
 	"os/signal"
 	"time"
 
-	"github.com/hashicorp/http-echo/version"
+	"github.com/pyrosomeio/http-echo/version"
 )
 
 var (
