@@ -28,7 +28,6 @@ spec:
           resources: {}
           terminationMessagePath: /dev/termination-log
           terminationMessagePolicy: File
-          command: ["/bin/http-echo"]
           args: ["-listen", "3000", "-text", "hello world"]
           ports:
             - containerPort: 3000
