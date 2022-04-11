@@ -23,7 +23,7 @@ spec:
         app: http-echo
     spec:
       containers:
-        - image: pyrosomeio/http-echo:1.0
+        - image: pyrosome/http-echo:1.0
           imagePullPolicy: IfNotPresent
           name: http-echo
           resources: {}
